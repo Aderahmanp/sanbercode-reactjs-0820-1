@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Ade Rahman Prabowo
+2. Email: aderahmanp@gmail.com
+3. Sistem Operasi yang digunakan: Linux
+4. Akun Gitlab: Aderahmanp
+5. Akun Telegram: @Aderahmanp 
