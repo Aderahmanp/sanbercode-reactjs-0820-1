@@ -1,0 +1,80 @@
+.data-peserta{
+    text-align: center;
+}
+
+.container{
+    margin:2rem
+}
+
+.biodata {
+    display: block;
+    margin-top: 2rem;
+}
+
+.form-left{
+    margin-left: 10%;
+}
+
+.form-gender-laki {
+    margin-left: 15.3rem;
+}
+
+.form-gender-perempuan {
+    margin-left: 9.3rem;
+}
+
+.textarea{
+    margin-top: 2rem;
+    margin-left: 16rem;
+    height: 8rem;
+    width: 20rem;
+}
+
+.pesan{
+    display: block;
+    margin-bottom: 2rem;
+}
+
+.background {
+    background-image: url(./pattern.jpg)
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+  }
+
+  .flex-container  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background:#fff;
+  }
+
+  .navbar  {
+    display: flex;
+  }
+
+  .navbar a {
+    display: block;
+    padding: 1em;
+  }
+  
+.feature{
+    text-align: center;
+}
+
+.container-section{
+    margin:2rem;
+    background-color: #fff;
+    padding:1rem;
+}
+
+.link{
+    text-decoration: none;
+}
