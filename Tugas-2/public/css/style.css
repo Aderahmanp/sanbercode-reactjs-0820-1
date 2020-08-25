@@ -63,6 +63,8 @@ footer {
   .navbar a {
     display: block;
     padding: 1em;
+    text-decoration: none;
+    list-style-type: none;
   }
   
 .feature{
